@@ -8,7 +8,7 @@ export default {
   stackbitVersion: "~0.6.0",
   ssgName: "custom",
   nodeVersion: "16",
-  devCommand: "npm run dev -- -p {PORT}",
+//   devCommand: "npm run dev -- -p {PORT}",
   experimental: {
     ssg: {
       name: "Nuxt3",
