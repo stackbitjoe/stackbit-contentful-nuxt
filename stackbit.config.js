@@ -13,7 +13,7 @@ export default {
     ssg: {
       name: "Nuxt3",
       logPatterns: {
-        up: "Server: Compiled",
+        up: "Listening on:",
       },
       passthrough: ["/vite-hmr/**"],
     },
